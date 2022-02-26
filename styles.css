@@ -1,0 +1,17 @@
+body{
+    background-color:whitesmoke;
+    text-align: justify;
+    font-family: 'Lucida Sans';
+    margin: 80px;
+    
+}
+
+h3{
+  text-align:center;  
+  text-decoration:dotted;
+  margin: 20px;
+}
+h5{
+    margin: 5px;
+}
+
